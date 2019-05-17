@@ -1,0 +1,39 @@
+object frmPrincipal: TfrmPrincipal
+  Left = 0
+  Top = 0
+  Caption = 'Exemplo Um - Curso de XE10 Delphi'
+  ClientHeight = 435
+  ClientWidth = 732
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object StatusBar1: TStatusBar
+    Left = 0
+    Top = 392
+    Width = 732
+    Height = 43
+    Panels = <
+      item
+        Alignment = taCenter
+        Text = 'Regiane Badia'
+        Width = 200
+      end
+      item
+        Width = 350
+      end
+      item
+        Text = 'Data:'
+        Width = 100
+      end
+      item
+        Text = 'Hora:'
+        Width = 50
+      end>
+  end
+end

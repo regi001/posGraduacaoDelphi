@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019/05/16 13:27:55.678,=C:\Users\regia\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/05/16 13:33:33.132,C:\Users\regia\Documents\CursoUdemyDelphi\CursoDelphiBerlin\UnitPrincipla.dfm=C:\Users\regia\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2019/05/16 13:33:33.132,C:\Users\regia\Documents\CursoUdemyDelphi\CursoDelphiBerlin\UnitPrincipla.pas=C:\Users\regia\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/05/16 13:33:56.057,C:\Users\regia\Documents\CursoUdemyDelphi\CursoDelphiBerlin\ProjetoDeAprendizado.dproj=C:\Users\regia\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/05/16 14:50:00.267,=C:\Users\regia\Documents\CursoUdemyDelphi\CursoDelphiBerlin\Unit1.pas</Transaction>
+    <Transaction>2019/05/16 14:52:13.852,C:\Users\regia\Documents\CursoUdemyDelphi\CursoDelphiBerlin\UnitClientes.dfm=C:\Users\regia\Documents\CursoUdemyDelphi\CursoDelphiBerlin\Unit1.dfm</Transaction>
+    <Transaction>2019/05/16 14:52:13.852,C:\Users\regia\Documents\CursoUdemyDelphi\CursoDelphiBerlin\UnitClientes.pas=C:\Users\regia\Documents\CursoUdemyDelphi\CursoDelphiBerlin\Unit1.pas</Transaction>
+    <Transaction>2019/05/17 08:51:13.468,=C:\Users\regia\Documents\CursoUdemyDelphi\CursoDelphiBerlin\Unit1.pas</Transaction>
+    <Transaction>2019/05/17 08:55:31.099,C:\Users\regia\Documents\CursoUdemyDelphi\CursoDelphiBerlin\UnitClacularSalario.pas=C:\Users\regia\Documents\CursoUdemyDelphi\CursoDelphiBerlin\Unit1.pas</Transaction>
+    <Transaction>2019/05/17 08:55:31.099,C:\Users\regia\Documents\CursoUdemyDelphi\CursoDelphiBerlin\UnitClacularSalario.dfm=C:\Users\regia\Documents\CursoUdemyDelphi\CursoDelphiBerlin\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

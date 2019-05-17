@@ -1,0 +1,16 @@
+program ProjetoDeAprendizado;
+
+uses
+  Vcl.Forms,
+  UnitPrincipla in 'UnitPrincipla.pas' {frmPrincipal},
+  UnitClientes in 'UnitClientes.pas' {frmClientes};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfrmPrincipal, frmPrincipal);
+  Application.CreateForm(TfrmClientes, frmClientes);
+  Application.Run;
+end.
